@@ -1,1 +1,17 @@
-R
+
+![en cub3d-01](https://github.com/Rhnizar/cub3D/assets/64803406/e131337d-2db2-419c-a1ac-ec6396c64031)
+
+![en cub3d-02](https://github.com/Rhnizar/cub3D/assets/64803406/40b00b4e-aae5-4896-bb39-cba46c153be0)
+![en cub3d-03](https://github.com/Rhnizar/cub3D/assets/64803406/908026a3-43e8-4648-b73c-8f972d982cde)
+![en cub3d-04](https://github.com/Rhnizar/cub3D/assets/64803406/34fedc34-73bb-4c78-8840-37dd48d06c2d)
+![en cub3d-05](https://github.com/Rhnizar/cub3D/assets/64803406/0d87e943-4c18-4152-bbe8-9b038c33d017)
+![en cub3d-06](https://github.com/Rhnizar/cub3D/assets/64803406/9a76d036-752c-4507-8bfd-0a9dd465a24e)
+![en cub3d-07](https://github.com/Rhnizar/cub3D/assets/64803406/db4dfd01-6b8a-4ab2-bf8a-b3fe56b84a26)
+![en cub3d-08](https://github.com/Rhnizar/cub3D/assets/64803406/fc9a9745-6af5-4c57-8bd8-3a49d1ad92a3)
+![en cub3d-09](https://github.com/Rhnizar/cub3D/assets/64803406/d3218b0b-70af-4a66-afa4-72bd4146402a)
+![en cub3d-10](https://github.com/Rhnizar/cub3D/assets/64803406/8a2605a3-0171-4c69-86d4-45a1551380c8)
+![en cub3d-11](https://github.com/Rhnizar/cub3D/assets/64803406/d1093968-d981-4d4c-a9ba-ae1933e62e42)
+![en cub3d-12](https://github.com/Rhnizar/cub3D/assets/64803406/e3e4837c-7a1a-4ef4-9b99-0388430ff5d6)
+![en cub3d-13](https://github.com/Rhnizar/cub3D/assets/64803406/1bd78823-2580-4e01-a972-8359bd731aa3)
+![en cub3d-14](https://github.com/Rhnizar/cub3D/assets/64803406/c8e1e429-51d7-4d66-970e-e2c6412a2eec)
+![en cub3d-15](https://github.com/Rhnizar/cub3D/assets/64803406/6fdf02af-b554-4b5c-a8cd-caecc9b70c5c)
